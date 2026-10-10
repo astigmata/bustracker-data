@@ -1,33 +1,33 @@
 {
   "schemaVersion": 1,
-  "generatedAt": "2026-10-01T10:56:08Z",
-  "schedulesGeneratedAt": "2026-10-01T10:55:37",
-  "coveredUntil": "2026-10-18",
-  "contentHash": "d66135d3af30fda6ba7a02e4025a4de3487053f8889ae6a8f9f591b25a62aaa3",
+  "generatedAt": "2026-10-10T10:35:29Z",
+  "schedulesGeneratedAt": "2026-10-10T10:34:56",
+  "coveredUntil": "2027-01-03",
+  "contentHash": "081a4df5d280519eeccd30748d7c96316097b7e3a0c01917b203c1f7a53f9013",
   "files": {
     "tam_schedules.json": {
       "path": "tam_schedules.json.gz",
-      "sha256": "d1d6206c7e8de98918951feac1499841a239a8c656cf2158b4e047d47b43347b",
-      "size": 3163486,
-      "gzSize": 210117
+      "sha256": "70d8962b0ea09bf5351e4660286c8c58f2cd6888cd82f35efd89398303e09860",
+      "size": 3559907,
+      "gzSize": 269911
     },
     "line_traces.json": {
       "path": "line_traces.json.gz",
-      "sha256": "86690323c5d29fe2b451a4869b0f2219e33c43e7f7c5869ec9b0effb04d7cf8f",
-      "size": 32418,
-      "gzSize": 7679
+      "sha256": "a04a1541844c19a700af8d6c540ee4c4d72d1fc5a4ff87ca1380a35b9465fc6b",
+      "size": 37545,
+      "gzSize": 6904
     },
     "trains.json": {
       "path": "trains.json.gz",
-      "sha256": "f4b4418f83aec9e53013d8d027c649c7f1965a4575d561d9a82e069412594199",
-      "size": 336661,
-      "gzSize": 22281
+      "sha256": "46e03d5d7e49b2d58a8a45582d1cab95eef2f2bb853cc803e51e09417d79d114",
+      "size": 326327,
+      "gzSize": 21563
     },
     "pois.json": {
       "path": "pois.json.gz",
-      "sha256": "ff5dfce34873d31d7a4dab7f8eca99d1dc958f7e12b7688b63852c2c5122afe4",
-      "size": 1057586,
-      "gzSize": 142667
+      "sha256": "53d0b6ec57d8a1d0e077252512346b97bc79c98dea603e03f69abf93ef6ec457",
+      "size": 1060283,
+      "gzSize": 143119
     }
   }
 }
